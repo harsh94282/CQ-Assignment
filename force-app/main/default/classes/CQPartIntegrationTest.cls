@@ -1,5 +1,6 @@
-public with sharing class CQPartIntegrationTest {
-    public CQPartIntegrationTest() {
-
+public class CQPartIntegrationTest {
+    @TestSetup
+    static void makeData(){
+        
     }
 }
