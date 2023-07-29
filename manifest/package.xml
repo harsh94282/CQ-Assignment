@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>CQPartIntegration</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>CQ_Parts__c.API_Key__c</members>
+		<members>CQ_Parts__c.Base_URL__c</members>
+		<members>SQX_Part__c.Active__c</members>
+		<members>SQX_Part__c.Part_Number__c</members>
+		<members>SQX_Part__c.Related_Account__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>High_Volume_Account</members>
+		<members>Low_Volume_Account</members>
+		<name>CustomLabel</name>
+	</types>
+	<types>
+		<members>CQ_Parts__c</members>
+		<members>SQX_Part__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>syncParts</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<types>
+		<members>CQ</members>
+		<name>RemoteSiteSetting</name>
+	</types>
+	<version>55.0</version>
+</Package>
