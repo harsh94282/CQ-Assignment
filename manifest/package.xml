@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
 		<members>CQPartIntegration</members>
+		<members>CQPartIntegrationTest</members>
+		<members>MockHttpResponseGenerator</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
